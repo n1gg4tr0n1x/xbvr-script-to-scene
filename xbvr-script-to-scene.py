@@ -3,7 +3,7 @@
 # EDIT BELOW, IF NEEDED.  Do not include a trailing slash.
 # -------
 
-XBVR_SERVER_ADDRESS = "http://192.168.1.100:9999"
+XBVR_SERVER_ADDRESS = "http://localhost:9999"
 
 # -------
 # That's all you'll really need to edit
