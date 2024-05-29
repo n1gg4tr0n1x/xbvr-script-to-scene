@@ -17,7 +17,7 @@ Funscripts without this file naming convention will not correctly match to scene
 
 ## Requirements & Dependencies
 - python3: This is a python3 script which requires a recent version of python3 to be installed on your system.
-- `requests`: This script requires the `[requests](https://pypi.org/project/requests/)` library, which is a third-party library and must be manually installed before running the script
+- `requests`: This script requires the [`requests`](https://pypi.org/project/requests/) library, which is a third-party library and must be manually installed before running the script
 - XBVR: Access to a running instance of XBVR is required
 
 ## Configuration
